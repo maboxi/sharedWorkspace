@@ -13,7 +13,7 @@ public class Main {
 		String text = "";
 		do {
 			text += s.nextLine();	
-		} while(s.hasNextLine());
+		} while(s.;
 		
 		System.out.println();
 		
